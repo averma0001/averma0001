@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avermasre" target="blank"><img align="center" src="https://i0.wp.com/managersante.com/wp-content/uploads/2015/12/2000px-linkedin_icon-svg.png?ssl=1" alt="https://www.linkedin.com/in/avermasre" height="45"  /></a>
+<a href="https://www.linkedin.com/in/avermasre" target="blank"><img align="center" src="https://i0.wp.com/managersante.com/wp-content/uploads/2015/12/2000px-linkedin_icon-svg.png?ssl=1" alt="https://www.linkedin.com/in/avermasre" height="45"  /></a>
 <a href="https://instagram.com/averma.sre" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Instagram-Logo.svg" height="45" /></a>
 <a href="https://www.hackerrank.com/averma_sre" target="blank"><img align="center" src="https://developerpitstop.com/wp-content/uploads/2021/09/hackerrank-logo-e1632169157113-768x786.png" alt="averma_sre" height="50" /></a>
 <a href="https://www.leetcode.com/avermasre" target="blank"><img align="center" src="https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png" alt="avermasre" height="45" /></a>
