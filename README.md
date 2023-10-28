@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averma0001&label=Profile%20views&color=0e75b6&style=flat" alt="averma0001" /> </p>
 
-- 🔭 I created an e-commerce website- **https://averma.pythonanywhere.com**
+- 🔭 I created an e-commerce website- **averma.pythonanywhere.com**
 
 - 🌱 I’m currently learning **Backend Web Development (Python)**
 
